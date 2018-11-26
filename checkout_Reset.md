@@ -24,7 +24,7 @@ git add stage_me.txt
 
 6. Mueve el fichero stage.txt del área de preparación al directorio de trabajo.
 
-git --cached stage_me.txt
+git -rm--cached stage_me.txt
 
 7. Añade el fichero stage_me.txt al área de preparación.
 
@@ -32,7 +32,7 @@ git add stage_me.txt
 
 8. Elimina el fichero stage_me.txt del área de preparación y del directorio de trabajo.
 
-git rm stage_me.txt
+git -rm -f stage_me.txt
 
 9. Crea un fichero nuevo llamado commit_me.txt.
 
