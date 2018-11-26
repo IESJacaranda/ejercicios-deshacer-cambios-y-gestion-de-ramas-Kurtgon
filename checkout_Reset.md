@@ -91,4 +91,4 @@ git reset --hard 0854a3b
 
 22. ¡Date una palmadita en la espalda! ¡Acabas de realizar un flujo de trabajo bastante complejo de git!
     
-git commit -m "Palmadita en la espalda"
+git commit -m "Palmadita en la espalda" o git push palmadita
