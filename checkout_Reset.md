@@ -60,7 +60,7 @@ git commit -m "adding second.txt"
 
 15. Muestra los commits previos uno por línea mostrando el identificador únicao (SHA) y el comentario asociado.
 
-git log --online
+git log --oneline
 
 
 Para realizar los siguientes ejercicios debes investigar sobre los parámetros --soft --mixed y --hard del comando git reset.
